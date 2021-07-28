@@ -1,3 +1,4 @@
+![Screen Recording 2021-07-27 at 5 21 34 PM](https://user-images.githubusercontent.com/87871505/127244457-c17ee783-9185-4d58-88e6-a47b187f0024.gif)
 # myAppGitV
 A React Application With a Flask Backend
 
